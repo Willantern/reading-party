@@ -1,10 +1,13 @@
 {
+  "name": "reading-party-test",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build",  
-    "export": "slidev export"  
+    "build": "slidev build"  
   },
   "devDependencies": {
-    "@slidev/cli": "^0.40.0"  
+    "@slidev/cli": "^0.48.0",  
+    "@slidev/theme-default": "^0.21.2" 
   }
 }

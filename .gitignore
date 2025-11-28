@@ -1,0 +1,9 @@
+# 依赖目录
+node_modules/
+# 构建产物（Action 自动生成，无需上传）
+dist/
+# 日志文件
+*.log
+# 编辑器配置（可选，避免上传 IDE 配置）
+.vscode/
+.idea/

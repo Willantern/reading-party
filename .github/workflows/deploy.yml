@@ -1,53 +1,48 @@
-name: Deploy pages
+name: Deploy Slidev to GitHub Pages
 
 on:
-  workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main]  # 推送到 main 分支自动部署
+  workflow_dispatch:  # 支持手动触发
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
         with:
-          node-version: 'lts/*'
+          fetch-depth: 0  # Slidev 可能需要完整历史记录（可选，但若报错则保留）
 
-      - name: Setup @antfu/ni
-        run: npm i -g @antfu/ni
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18  # 关键：Slidev 要求 Node.js ≥14.18，推荐 18（稳定）
+          cache: 'npm'  # 缓存依赖，加速安装
 
       - name: Install dependencies
-        run: nci
+        run: npm install  # 安装 Slidev 及项目依赖（确保 package.json 配置正确）
 
-      - name: Build
-        run: nr build --base /${{github.event.repository.name}}/
+      - name: Build Slidev
+        run: npm run build -- --base /reading-party/  # 关键：Slidev 构建命令，指定基础路径
+        # 说明：--base 后的值必须和你的仓库名一致（当前仓库名是 reading-party）
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: dist  # Slidev 构建产物默认输出到 dist 目录，无需修改
 
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

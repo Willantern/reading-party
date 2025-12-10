@@ -1,5 +1,5 @@
 ---
-theme: academic
+theme: default
 layout: quote
 ---
 

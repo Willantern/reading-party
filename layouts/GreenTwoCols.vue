@@ -4,7 +4,7 @@
     <header class="g-header">
       <h1 class="g-title">{{ $frontmatter.titleEn }}</h1>
       <div class="g-logo">
-        <img :src="$frontmatter.logo" alt="院校Logo" />
+        <img src="/scut-logo.png" alt="院校Logo" />
       </div>
     </header>
     <!-- 主体内容（左右分栏容器） -->

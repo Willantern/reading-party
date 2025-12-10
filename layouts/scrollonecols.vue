@@ -4,7 +4,7 @@
     <header class="flex justify-between items-center mb-6 pb-3 border-b-2 border-[#73a942]">
       <h1 class="text-2xl text-black font-bold m-0">{{ $frontmatter.titleEn }}</h1>
       <div class="g-logo">
-        <img :src="$frontmatter.logo" alt="院校Logo" class="h-15" />
+        <img src="/scut-logo.png" alt="院校Logo" class="h-15" />
       </div>
     </header>
 

@@ -359,7 +359,7 @@ based on their impact on the users’ ability to continue using their wearables 
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="/images/redescription.png" 
-       style="width: 20%; height: auto;">
+       style="width: 100%; height: auto;">
 </div>
 
 ---

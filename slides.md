@@ -1,5 +1,20 @@
 ---
 layout: scrolltwocols
+titleEn: 人与系统能动性之间：应对负面事件以持续有效使用可穿戴设备
+ 
+---
+::middle::
+
+# **Between Human and System Agency: Coping with Negative Incidents for Continued Effective Use of Wearables**
+
+安娜米娜·里德尔(Annamina Rieder)
+
+西蒙弗雷泽大学比迪商学院 (Simon Fraser University)
+
+信息系统领域期刊: Information Systems Research
+
+---
+layout: scrolltwocols
 titleEn: 现实情境：被量化的生活与“吃灰”的设备
  
 ---
@@ -58,27 +73,32 @@ titleEn: 现实情境：被量化的生活与“吃灰”的设备
 
 ---
 layout: scrolltwocols
-titleEn: 学术解释：核心概念一览
+titleEn: 核心概念一览
  
 ---
 
 ::left::
+# **信息系统**
+信息系统是由计算机硬件、网络和通信设备、计算机软件、信息资源、信息用户和规章制度组成的以处理信息流为目的的**人机一体化**系统。它具备五个基本功能：输入、存储、处理、输出和控制，旨在通过信息技术支持组织的决策、协调和控制。
+
+# **负面事件(Negative incidents)**
+**本研究中的负面事件指的是那些引发用户负面情绪状态的压力性遭遇**；它们可能与可穿戴设备使用的各个方面相关，包括个人因素、技术相关因素以及环境因素。
+
+Negative incidents in this study refer to stressful encounters that elicit negative emotional states in users; they can be associated with various aspects of wearable use, including personal factors, echnology-related factors, and environmental factors.
 
 # **有效使用 (Effective Use)**
-
 这不仅仅指“使用了系统”，而是指“以有助于实现使用目标的方式使用系统” 。作者引用 Burton-Jones 和 Grange 的理论，将其细分为三个维度：
-
 ## **透明交互 (Transparent Interaction)**
-
 你能顺畅地获取系统信息(如：顺利读取心率数据)。
 ## **表征真实性 (Representational Fidelity)**
 系统数据真实反映了现实情况(如：跑步公里数是准确的)。
 ## **知情行动 (Informed Action)**
 用户根据系统反馈采取了改进行动(如：看到心率过高而放慢脚步)。
-## **应对 (Coping)**
-指人们为了处理压力情境(负面事件)而付出的认知和行为努力 。在可穿戴设备语境下，这可能表现为“再跑一段凑够目标”(积极应对)，也可能表现为“假装没看见数据”(心理脱离)。
 
-## **能动性结构 (Agency Structure)**
+# **应对 (Coping)**
+指人们为了处理压力情境(负面事件)而付出的认知和行为努力 。在可穿戴设备语境下，这可能表现为“再跑一段凑够目标”(积极应对)，也可能表现为“假装没看见数据”(心理脱离)。应对理论模型包括四个阶段包括遭遇压力情境(Stressful Encounter)-> 认知评估(Cognitive Appraisal)-> 采取应对行为(Coping Behavior)->评估应对结果(Evaluation of Coping Outcomes)
+
+# **能动性结构 (Agency Structure)**
 这是本文的理论高光点。研究区分了 人类能动性 (Human Agency)(用户的意愿、选择)和 系统能动性 (System Agency)(设备自主设定目标、发出指令的能力)。
 
 ## **能动性一致 (Alignment)**
@@ -89,30 +109,26 @@ titleEn: 学术解释：核心概念一览
 
 ::right::
 
-## **有效使用(Effective Use)**
+# **有效使用(Effective Use)**
 “effective use means ‘using a system in a way that helps attain the goals for using the system’ (Burton-Jones and Grange 2013, p. 633).”(1. Introduction)
 
 “In the context of wearables that are used in performing physical activity, effective use means interacting with the system so it monitors physical activity accurately and in such a way that users can understand and use its feedback to engage in behaviors that will advance their goals (e.g., go for a walk).”(1. Introduction)
 
-“Burton-Jones and Grange (2013) break [effective use] into three dimensions: transparent interaction, representational fidelity, and informed action. Transparent interaction refers to ‘the extent to which a user is accessing the system’s representations unimpeded by its surface and physical structures’ (Burton-Jones and Grange 2013, p. 642), so it encompasses how users employ a wearable and their inputting or extracting of data and information. Representational fidelity refers to ‘the extent to which a user is obtaining representations from the system that faithfully reflect the domain being represented’ (Burton-Jones and Grange 2013, p. 642), so it concerns the accuracy and completeness with which wearables track activities, and parameters are reflected in the data. Finally, informed action refers to ‘the extent to which a user acts upon the faithful representations he or she obtains from the system to improve his or her state’ (Burton-Jones and Grange 2013, p. 642), so it relates to the behaviors users undertake in response to their wearables’ feedback (e.g., taking more steps, adjusting training intensity).”(2.2.2)
+“Burton-Jones and Grange (2013) break into three dimensions: transparent interaction, representational fidelity, and informed action. Transparent interaction refers to ‘the extent to which a user is accessing the system’s representations unimpeded by its surface and physical structures’ (Burton-Jones and Grange 2013, p. 642), so it encompasses how users employ a wearable and their inputting or extracting of data and information. Representational fidelity refers to ‘the extent to which a user is obtaining representations from the system that faithfully reflect the domain being represented’ (Burton-Jones and Grange 2013, p. 642), so it concerns the accuracy and completeness with which wearables track activities, and parameters are reflected in the data. Finally, informed action refers to ‘the extent to which a user acts upon the faithful representations he or she obtains from the system to improve his or her state’ (Burton-Jones and Grange 2013, p. 642), so it relates to the behaviors users undertake in response to their wearables’ feedback (e.g., taking more steps, adjusting training intensity).”(2.2.2)
 
-## **应对理论(Coping Theory)**
+# **应对理论(Coping Theory)**
 
 “Coping refers to efforts to deal with stressful situations (Lazarus 1993, Folkman and Moskowitz 2004) through, for example, planning, seeking social support, reinterpreting, denial, emotional venting, and disengaging (Carver et al. 1989).”(1. Introduction)
 
-“At the start of all coping processes stand individuals who encounter stressful situations (Lazarus 1993) and then undertake cognitive appraisals to determine what the situation means for them personally (i.e., their emotions, their stakes in the situation) and whether they can change the situation (Lazarus and Folkman 1987). Then they deal with the situation (cope) in a way that is intended to reduce the initial stress (Folkman and Lazarus 1988). Finally, they evaluate the outcomes of the coping process in terms of whether the situation is resolved, how they chose to cope with it, and/or the long-term outcomes (e.g., physical health, subjective well-being, social functioning) (Lazarus and Folkman 1987).”(2.3.1)
-## **主体能动性(Agency)**
+“At the start of all coping processes stand individuals who encounter stressful situations (Lazarus 1993) and then undertake cognitive appraisals to determine what the situation means for them personally (i.e., their emotions, their stakes in the situation) and whether they can change the situation (Lazarus and Folkman 1987). Then they deal with the situation in a way that is intended to reduce the initial stress (Folkman and Lazarus 1988). Finally, they evaluate the outcomes of the coping process in terms of whether the situation is resolved, how they chose to cope with it, and/or the long-term outcomes (e.g., physical health, subjective well-being, social functioning) (Lazarus and Folkman 1987).”(2.3.1)
+# **主体能动性(Agency)**
 
-“With their learning, adaptive, and autonomous properties, wearables are agentic systems, or ‘software-based artifact[s] designed to make rational, autonomous decisions’ (Baird and Maruping 2021, p. 317).”(2.1)
+“With their learning, adaptive, and autonomous properties, wearables are agentic systems, or ‘software-based artifact designed to make rational, autonomous decisions’ (Baird and Maruping 2021, p. 317).”(2.1)
 
 “Human agency refers to free will, intentionality, accountability, and exertion of willpower, choice, and control (Archer 1995, Bandura 2001, Baird and Maruping 2021, Murray et al. 2021), whereas nonhuman agentic systems typically receive input from the environment via connected sensors (Jennings et al. 1998), determine rules, make choices, and act independently so they can ‘constrain, complement, and substitute for humans in the practice of routines’ (Murray et al. 2021, p. 553).”(2.1)
 
 “Agency structure can manifest as agency alignment or agency conflict, that is, when users’ expectations about the agentic position of wearables and the actual agentic position of wearables are in line or diverge, respectively.”(3.2.3)
 
-## **生成机制与情境条件**
-“Analysis of the narratives yielded four generative mechanisms-self-control, confirmation, progress, and datafication-that give rise to distinct coping patterns and affect effective use. Two contextual conditions, agency structure and structural barriers, explain users’ selection of (mal)adaptive coping patterns under different generative mechanisms.”(Abstract)
-
-“Structural barriers stem from either user limitations (e.g., motivation, incapacity) or system constraints (e.g., properties, capabilities) that impede users’ ability to adjust and, consequently, pursue intended goals.”(3.2.3)
 
 ---
 layout: scrolltwocols
@@ -120,8 +136,6 @@ titleEn: 人与系统能动性之间：应对负面事件以持续有效使用�
  
 ---
 ::middle::
-
-# **Between Human and System Agency: Coping with Negative Incidents for Continued Effective Use of Wearables**
 
 ::left::
 
@@ -137,7 +151,9 @@ titleEn: 人与系统能动性之间：应对负面事件以持续有效使用�
 信息系统领域期刊: Information Systems Research
 
 代表了该领域对人机交互深度与复杂性的最新探索
+
 ::right::
+# **research interests**
 
 Dr. Annamina Rieder is an Assistant Professor of Management Information Systems at the Beedie School of Business at Simon Fraser University. She received a Ph.D. in Management from the University of St.Gallen, Switzerland. Her research interests lie in effective use, agentic systems, and persuasive design, particularly in the domains of digital health, social media, and sustainability. Her most recent work considers the transformative impact of artifical intelligence in the art world and interactions with and outcomes of dynamic matching algorithms. Her articles have appeared, among others, in Information Systems Research, the European Journal of Information Systems, the Journal of Information Technology, Decision Support Systems, and the International Journal of Human-Computer Interaction.
 
@@ -206,20 +222,20 @@ titleEn: 研究对象：62 位瑞士可穿戴设备用户
 
 ::middle::
 
-## **样本选择的地理依据**
+## **样本选择的理论依据**
 
 研究对象限定为瑞士居民，原文解释：“Switzerland is one of the most highly penetrated markets for wearables in Europe (Statista 2022)”—— 高渗透率意味着用户使用经验更丰富，能提供更成熟的 “长期有效使用” 与 “负面事件应对” 案例，避免因市场不成熟导致的样本偏差(如试用阶段用户占比过高)。
 
 
 | 筛选阶段 | 具体标准                                                                                                                                                      | 目的                                                                                                                         |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 初始招募 | 1. 私人使用可穿戴设备**连续超过 6 个月**；<br><br>2. 无职业 / 年龄 / 性别限制，但需覆盖不同设备类型(智能手表、运动手环、专业运动表等)、使用场景(日常活动、跑步、健身等)、活动水平(低 / 中 / 高)、健康状态(健康 / 慢性疾病等)、使用习惯(每日佩戴 / 特定场景佩戴等) | 1. 6 个月依据：心理学家认为，习惯形成需 2-8 个月(Lally et al. 2010)，6 个月可确保用户度过 “试用阶段”，形成稳定的有效使用模式；<br><br>2. 多样性：覆盖商业可穿戴设备的不同功能、目标人群，避免样本单一化 |
+| 初始招募 | 1. 私人使用可穿戴设备连续超过 6 个月；<br><br>2. 无职业 / 年龄 / 性别限制，但需覆盖不同设备类型(智能手表、运动手环、专业运动表等)、使用场景(日常活动、跑步、健身等)、活动水平(低 / 中 / 高)、健康状态(健康 / 慢性疾病等)、使用习惯(每日佩戴 / 特定场景佩戴等) | 1. 6 个月依据：心理学家认为，习惯形成需 2-8 个月(Lally et al. 2010)，6 个月可确保用户度过 “试用阶段”，形成稳定的有效使用模式；<br><br>2. 多样性：覆盖商业可穿戴设备的不同功能、目标人群，避免样本单一化 |
 | 动态扩展 | 当 “适应不良应对方式”(如作弊、停用)相关案例开始出现时，纳入**中断使用后重启**的用户                                                                                                            | 补充 “非持续性使用” 案例，饱和 “适应不良应对” 相关理论类别，避免遗漏关键应对模式                                                                               |
 
 ## **样本人口统计学与使用特征**
 研究明确追求 “多维度多样性”，以反映真实用户群体
 覆盖不同性别(男 / 女)、年龄(20-60 + 岁)、职业(学生、上班族、医生、自由职业者等)；
-包括apple watch(智能手表)、Fitbit(活动 tracker)、Garmin(运动表)等主流设备，使用场景涵盖日常步数监测、跑步训练、体重管理、慢性病辅助监测等。
+包括apple watch(智能手表)、Fitbit(活动记录)、Garmin(运动表)等主流设备，使用场景涵盖日常步数监测、跑步训练、体重管理、慢性病辅助监测等。
 
 ---
 layout: scrollonecols
@@ -266,40 +282,185 @@ titleEn: 数据分析
 
 ---
 layout: scrollonecols
-titleEn: 研究结论
+titleEn: 分解(Decomposition)—— 拆分叙事事件的核心组件
+---
+::middle::
+
+# **分解**
+“分解” 是数据分析的基础，目的是将用户复杂的叙事经历拆解为 “可分析的基本单元”，核心是提取 “能动体、条件、事件” 三大组件(Bhaskar 1975)
+
+Decomposing identifies and extracts from a complex event its basic components—agents, conditions, and events (Bhaskar 1975)—through open coding (Glaser and Strauss 1967).
+## **能动体(Agents)**
+
+有能力干预事件、引发变化的 “能动实体”，包括人类(用户、家人、朋友)和非人类(可穿戴设备，因具备能动性)(Bhaskar 1975)
+
+Agents are animate entities (e.g., humans) that have the power to interfere with the empirical phenomena and induce changesin events (Bhaskar 1975). Emergent agents were the users themselves, along with family members, friends, and colleagues who shaped the sequence of events in some interviews.
+
+## **条件(Conditions)**
+
+塑造生成机制运作、影响事件序列的 “结构性因素”，包括社会结构、技术属性、用户特征等
+
+Conditions refer to the structures of systems that shape how generative mechanisms act and the empirical sequence of events they produce (Bhaskar 1975). In critical realism, the goal of causal explanation is to reveal what reality must be like for a phenomenon of interest to occur (Wynn and Williams 2012). This includes identifying both the ensemble of generative mechanisms at work and the contextual conditions that tend to produce the phenomenon (Zachariadis et al. 2013).In IS research, conditions can include social structures, tasks, rules and practices, technological artifacts and their properties, and discursive elements (Johns 2006, Wynn and Williams 2012). 
+
+## **事件(Events)**
+与 “可穿戴设备负面事件” 相关的连续过程，需排除两类叙事：
+1. 试错阶段的使用模式(非稳定有效使用)；
+2. 不影响常规使用、不引发负面情绪(如沮丧、焦虑)的事件(Lazarus and Folkman 1987)
+
+The sequences of events related to the negative incidents in the narratives were first isolated and then decomposed (Volkoff et al. 2007).
+The assessment of the incident as negative is subjective and coded as such when users experience
+negative emotional states during and immediately after the encounter, aligning with the notions of Lazarus and Folkman (1987) of short-run outcomes and immediate effects of the encounter. Because the focus was on identifying core events, two types of narrative accounts were excluded from analysis: accounts of patterns during trial-and-error phase and negative incidents that did not disrupt regular use patterns, were not related closely to wearable use, or did not invoke negative emotions like
+deterrence, anger, anxiety, disappointment, loss, guilt, fear, or worry (Lazarus and Folkman 1987, Beaudry and Pinsonneault 2010).
+
+## **事件拆分逻辑**
+将每个负面事件进一步拆分为 “触发原因(如设备没电)→情绪反应(如懊恼)→应对行为(如自我安慰 “活动已完成”)→后续使用变化(如继续佩戴但不纠结数据)”，确保因果链条完整。
+
+## **例子**
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/coding.png" 
+       style="width: 20%; height: auto;">
+</div>
+
+---
+layout: scrollonecols
+titleEn: 理论重构(Theoretical Redescription)—— 按 “应对过程” 重组数据
+---
+::middle::
+
+# **理论重构(Theoretical Redescription)**
+
+“理论重构” 是将分解后的组件按 “应对理论” 的逻辑重新组织，核心是建立 “负面事件→情绪→应对方式→有效使用影响” 的关联，并基于 “有效使用的三维度” 评估结果，具体操作如下：
+
+The purpose of theoretical redescription of events is to reconstruct the component events into sequential patterns that are suited to theorizing. 
+
+严格遵循 Lazarus 和 Folkman(1987)的 “应对过程模型”，将每个负面事件的组件重组为以下顺序：
+压力性遭遇(Stressful Encounter)：即已分解的 “负面事件”(如设备数据不准)；
+情绪状态(Invoked Emotional State)：用户在事件中的主观情绪(如愤怒、沮丧、自我怀疑)；
+应对方式(Ways of Coping)：用户为缓解压力采取的具体行为(如校准设备、作弊、停用)；
+应对结果(Coping Outcome)：基于 “有效使用三维度” 评估应对行为的影响。
+
+评估依据 Burton-Jones 和 Grange(2013)提出的 “有效使用三维度”，采用 “定性打分 + 目标关联” 的方式，确保评估客观(原文 Online Appendix A7 包含完整评估列表)：
+
+the outcomes of the ways of coping that the interviewees described were evaluated in three dimensions—
+transparent interaction, representational fidelity, and informed action (Burton-Jones and Grange 2013)—
+based on their impact on the users’ ability to continue using their wearables effectively.
+
+## 透明交互(TI)
+“用户不受设备表面 / 物理结构阻碍，获取系统表征的程度”(如充电、数据同步、功能操作)
+
+## 表征保真(RF)	
+“用户从系统获取的表征(数据)忠实反映现实的程度”(如数据准确性、完整性)
+
+## 知情行动(IA)
+“用户基于系统表征采取行动以改善自身状态的程度”(如根据数据调整运动)
+
+原文强调，重构过程中 “the content of the steps was kept subjective and data driven and did not rely on pre-established nomenclature, inventory, or other findings”—— 即不依赖心理学或 IS 领域已有的 “应对方式分类”(如 COPE 量表)，而是从用户叙事中直接提取应对行为(如 “选择性分享数据”“自我安慰”)，确保数据的真实性与情境适配性。
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/redescription.png" 
+       style="width: 20%; height: auto;">
+</div>
+
+---
+layout: scrollonecols
+titleEn: 溯因(Retroduction)—— 挖掘背后的生成机制与情境条件
+---
+::middle::
+
+“溯因” 是批判现实主义的核心步骤，目的是 “从可观察的应对模式倒推不可直接观察的因果结构”(Mingers 2004)，即回答 “为何用户会选择该应对方式”，最终识别出 “生成机制” 与 “情境条件”，具体操作如下：
+
+# **溯因逻辑：从结果倒推候选机制**
+
+“taking some unexplained phenomenon and proposing hypothetical mechanisms that, if they existed, would generate or cause that which is to be explained”(针对未解释的现象，提出 “若存在则能引发该现象” 的假设机制)(Mingers 2004, p.94)；
+
+1. 针对每个 “应对模式”(如 “为获奖励而额外运动”)，提出 “候选生成机制”(如 “确认机制”—— 用户使用设备是为获取成就感)；
+2. 对候选机制进行 “实证验证”(cross-check)：对比不同用户的同类应对模式，检查候选机制是否能统一解释(如多个用户 “为达标刷步数”，均符合 “确认机制”)；
+3. 排除 / 合并机制：若候选机制无法解释部分案例，或与其他机制存在重叠，则调整(如原文将 “playful-exploration 机制” 与 “datafication 机制” 合并，因两者均围绕 “量化自我”，无本质差异)
+4. 
+## **关键概念：生成机制与情境条件的定义**
+生成机制(Generative Mechanisms)：“the causal powers that—through their acting—give rise to observable events”(通过运作引发可观察事件的因果能力)(Bhaskar 1975)，需具备 “稳定性”(同一机制可解释多个用户的应对模式)；
+
+情境条件(Contextual Conditions)：“structures that shape how generative mechanisms act and the empirical sequence of events they produce”(影响生成机制运作、塑造事件序列的结构因素)(Bhaskar 1975)，需能解释 “同一机制下为何出现不同应对模式”(如同样是 “确认机制”，有人 “额外运动”，有人 “作弊”)。
+
+---
+layout: scrollonecols
+titleEn: 四大生成机制
 ---
 
 ::middle::
-
-**Table 4. Generative Mechanisms and Related Empirical Coping Patterns** (Page 11)
-
+# **四大生成机制**
 <div style="text-align: center; margin: 10px 0;">
   <img src="/images/pattern.png" 
        style="width: 100%; height: auto;">
 </div>
 
 
-<!-- | 机制 | 使用目标 | 可穿戴设备角色 |
+| 机制 | 使用目标 | 可穿戴设备角色 |
 |------|----------|----------------|
 | 自我控制 | 控制生活各方面 | 指导用户找到方法和过程结构的变革代理 |
 | 确认 | 从活动中获得成就感 | 激励、提示并提供性能证明的"奖励机器" |
 | 进步 | 不断进步，成为更好的自己 | 帮助用户实现自设目标和自我导向进步的训练工具 |
-| 数据化 | 出于好奇量化理解自己 | 提供个人量化洞察的数据收集和审查工具 | -->
-
-# **四大生成机制**
+| 数据化 | 出于好奇量化理解自己 | 提供个人量化洞察的数据收集和审查工具 |
 
 研究发现了四种驱动用户使用和应对的生成机制 (Generative Mechanisms)，以及它们在不同情境下的后果 ：
 
-自我控制 (Self-control)：用户利用设备作为改变习惯的“代理人”。
+## *自我控制 (Self-control)：用户利用设备作为改变习惯的“代理人”。*
 
-确认 (Confirmation)：用户将设备视为“奖励机器”，寻求成就感。
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/self-control.png" 
+       style="width: 100%; height: auto;">
+</div>
 
-进步 (Progress)：用户将设备作为训练工具，追求自我超越。
+## *确认 (Confirmation)：用户将设备视为“奖励机器”，寻求成就感。*
 
-数据化 (Datafication)：用户出于好奇，单纯想量化和了解自己。
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/confirmation.png" 
+       style="width: 100%; height: auto;">
+</div>
+
+## *进步 (Progress)：用户将设备作为训练工具，追求自我超越。*
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/progress.png" 
+       style="width: 100%; height: auto;">
+</div>
+
+## *数据化 (Datafication)：用户出于好奇，单纯想量化和了解自己。*
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/datafication.png" 
+       style="width: 100%; height: auto;">
+</div>
+
+# **情境条件的识别**
+通过对比 “同一机制下的不同应对模式”，识别出 2 个关键情境条件(原文 Table 9)：
+
+## *能动性结构(Agency Structure)*
+
+“users’ expectations about the agentic position of wearables and the actual agentic position of wearables are in line (agency alignment) or diverge (agency conflict)”(用户对设备能动性的预期与设备实际能动性的 “对齐 / 冲突”)；
+
+agency 冲突时，用户倾向 “非适应性应对”(如设备强制目标→停用)；agency 对齐时，倾向 “适应性应对”(如设备辅助记录→校准数据)。
+
+## *结构性障碍(Structural Barriers)*
+
+“user limitations (e.g., motivation, incapacity) or system constraints (e.g., properties, capabilities) that impede users’ ability to adjust”(阻碍用户调整行为的 “用户限制” 或 “系统限制”)；
+
+即使 agency 对齐，若存在障碍(如设备传感器差→数据不准)，用户仍可能选择 “非适应性应对”(如停用)；无障碍时，更易 “适应性应对”(如校准 GPS→提升数据准确性)。
+
+# *整体流程*
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="/images/flow.png" 
+       style="width: 100%; height: auto;">
+</div>
 
 # **核心观点**
+1. 应对方式决定有效使用走向
+2. 生成机制决定应对逻辑
+3. 情境条件决定应对适应性
 
+# **特殊观点**
 能动性冲突是“万恶之源”：当系统的能动性(如强迫目标)与用户的预期不符时，用户极易采取适应不良的应对方式(如选择性使用、弃用)，从而破坏有效使用 。
 
 新发现的应对方式——“欺骗”：研究识别出一种新的应对类别——自我欺骗 (Self-deception)，包括“作弊”和“篡改信息” 。例如，为了不让数据难看而手动删除糟糕的跑步记录，或者为了获得奖励而虚报摄入。这是一种为了心理舒适而牺牲数据真实性的行为 。
@@ -345,22 +506,12 @@ titleEn: 延伸思考
 ::middle:: 
 
 # **(1) 对旅游领域的启发：智慧旅游的“边界感”**
-能动性冲突的警示：现在的智慧旅游APP或电子导览经常会推送“最佳路线”或强制打卡点(系统能动性)。如果这与游客随性探索的意愿(人类能动性)冲突，游客就会感到被“控制”。
-
-应对策略：游客可能会通过“无视推荐”(心理脱离)或者仅仅为了打卡积分而“虚假签到”(作弊)，导致智慧系统的效能大打折扣。
-
-设计建议：智慧旅游系统应允许用户自定义“能动性结构”，是想要“保姆级向导”还是“默默的记录者”，应由游客决定。
+保姆级向导 vs. 默默的记录者
 
 # **(2) 对乡村振兴与数字农业的启发：从“技术强加”到“辅助赋能”**
-结构性障碍：在数字乡村建设中，如果强推高科技传感器给农户，但设备数据不准(表征真实性差)或经常故障，这构成了“结构性障碍”。
-
-应对后果：农户可能会回归传统经验，彻底抛弃数字设备(停止使用)，或者为了拿补贴而“刷数据”(操纵信息)。
-
-核心逻辑：技术下乡不能只看“铺设率”，要看是否与农户的真实生产目标(如：增产 vs. 省力)相匹配。如果系统设定的目标(如过于复杂的精细化管理)超出了农户的执行能力，就会导致无效使用。
+装模做样 vs. 有模有样
 
 # **(3) 对文章本身的思考：人机关系的本质**
-自我欺骗的哲学：文章提到的“自我欺骗”非常耐人寻味。在算法时代，我们有时为了迎合算法的评价体系(如信用分、健康分、社交媒体点赞)，不惜牺牲真实的自我体验。这提醒我们，数据应该是服务的工具，而不是生活的主宰。
-
-动态的有效性：有效使用不是一劳永逸的。一次负面的系统反馈(如错误的健康预警)就可能摧毁建立已久的信任。系统设计者必须重视每一次“微小的失败”，并提供修复机制。
+自我欺骗与信任修复
 
 

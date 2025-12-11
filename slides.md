@@ -1,6 +1,6 @@
 ---
 layout: scrolltwocols
-titleEn: 人与系统能动性之间：应对负面事件以持续有效使用可穿戴设备
+titleEn: 在人与系统能动性之间：应对负面事件以持续有效使用可穿戴设备
  
 ---
 ::middle::
@@ -132,7 +132,7 @@ Negative incidents in this study refer to stressful encounters that elicit negat
 
 ---
 layout: scrolltwocols
-titleEn: 人与系统能动性之间：应对负面事件以持续有效使用可穿戴设备
+titleEn: 在人与系统能动性之间：应对负面事件以持续有效使用可穿戴设备
  
 ---
 ::middle::
@@ -319,7 +319,7 @@ deterrence, anger, anxiety, disappointment, loss, guilt, fear, or worry (Lazarus
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="/images/coding.png" 
-       style="width: 20%; height: auto;">
+       style="width: 100%; height: auto;">
 </div>
 
 ---
